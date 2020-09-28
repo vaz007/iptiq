@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iptiq/static/css/main.5f361e03.chunk.css",
+    "main.js": "/iptiq/static/js/main.50aefbd7.chunk.js",
+    "main.js.map": "/iptiq/static/js/main.50aefbd7.chunk.js.map",
+    "runtime-main.js": "/iptiq/static/js/runtime-main.7e2c696e.js",
+    "runtime-main.js.map": "/iptiq/static/js/runtime-main.7e2c696e.js.map",
+    "static/js/2.87655a21.chunk.js": "/iptiq/static/js/2.87655a21.chunk.js",
+    "static/js/2.87655a21.chunk.js.map": "/iptiq/static/js/2.87655a21.chunk.js.map",
+    "index.html": "/iptiq/index.html",
+    "precache-manifest.64e0532839c2e19bce65cf921dd66cb0.js": "/iptiq/precache-manifest.64e0532839c2e19bce65cf921dd66cb0.js",
+    "service-worker.js": "/iptiq/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/iptiq/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.87655a21.chunk.js.LICENSE.txt": "/iptiq/static/js/2.87655a21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e2c696e.js",
+    "static/js/2.87655a21.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.50aefbd7.chunk.js"
+  ]
+}
