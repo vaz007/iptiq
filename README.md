@@ -13,3 +13,7 @@ For the given appliccation I have made few assumptions:
 I feel instead of github pages one can use aws services such as AWS Amplify or beanstalk to deploy the application. 
 I am using aws because it takes care of rest of the things when we are scaling. Furthermore, we can also create a docker image which will help running the entire full stack application on various systems.
 
+
+## Github Pages
+
+I have just created a branch for github pages. Usuallly for deployment I follow certain architecture, but as we are not deploying, I have added everything under master branch.
